@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When you initialize a repository, the files in that directory are linked together through git. This allows you to apply version control to multiple related files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The staging area is different from the working directory and the repository in that the files are not actually stored there. Rather it is a label for selecting which files to initialize git version control. The staging area allows for the user to decide when and which file(s) get added to the repository.
