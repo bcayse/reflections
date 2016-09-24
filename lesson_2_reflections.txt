@@ -3,3 +3,9 @@ A: When you initialize a repository, the files in that directory are linked toge
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area is different from the working directory and the repository in that the files are not actually stored there. Rather it is a label for selecting which files to initialize git version control. The staging area allows for the user to decide when and which file(s) get added to the repository.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: The staging area allows you to ensure that single or multiple files with the same logical change are all committed at the same time.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: Branches could be helpful in situations that call for experimentation with the program or creating another version that is slightly different. The branches allow you to create and commit new versions without changing the base version.
