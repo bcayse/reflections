@@ -15,3 +15,6 @@ A: Diagrams illustrate the branch structure by showing the commit-parent relatio
 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: The result of merging two branches is one version of the file with changes from both brancehs. Its diagrammed to show that the commit histories are shared by the latest file.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: The pro is that it is usually faster. The con is that it sometimes cannot tell which line(s) of code to install. 
