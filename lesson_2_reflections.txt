@@ -9,3 +9,6 @@ A: The staging area allows you to ensure that single or multiple files with the 
 
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: Branches could be helpful in situations that call for experimentation with the program or creating another version that is slightly different. The branches allow you to create and commit new versions without changing the base version.
+
+Q: How do diagrams help you visualize the branch structure?
+A: Diagrams illustrate the branch structure by showing the commit-parent relationships and commit-branch relationships.
