@@ -12,3 +12,6 @@ A: Branches could be helpful in situations that call for experimentation with th
 
 Q: How do diagrams help you visualize the branch structure?
 A: Diagrams illustrate the branch structure by showing the commit-parent relationships and commit-branch relationships.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The result of merging two branches is one version of the file with changes from both brancehs. Its diagrammed to show that the commit histories are shared by the latest file.
