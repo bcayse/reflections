@@ -1,1 +1,2 @@
-
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: Some instances of when you would want to use a remote repository rather than keeping all work local include: wanting to access the work from multiple locations, allowing multiple users to access the work, and wanting a backup incase the local machine crashes.
